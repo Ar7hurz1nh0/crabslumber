@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "jinxdash.prettier-rust",
+    "rust-lang.rust-analyzer",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}

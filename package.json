@@ -1,0 +1,16 @@
+{
+  "name": "mcsleepingserverstarter-rs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-rust": "^0.1.9"
+  }
+}
